@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\bin\Debug\Crazy Al.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\bin\Debug\Crazy Al.exe
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\bin\Debug\Crazy Al.pdb
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\bin\Debug\Crazy Al.xml
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\obj\Debug\Crazy_Al.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\obj\Debug\Crazy_Al.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\obj\Debug\Crazy Al.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\obj\Debug\Crazy Al.exe
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\obj\Debug\Crazy Al.xml
+C:\Users\nn137422\Documents\Visual Basic\Crazy Al\Crazy Al\obj\Debug\Crazy Al.pdb
